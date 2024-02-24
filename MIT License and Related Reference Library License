@@ -1,0 +1,51 @@
+This software and its related codes are open sourced under the MIT license. The author does not have any control 
+over the software. Those who use the software and disseminate the sounds exported by the software are fully responsible.
+If you do not agree with this term, you may not use or reference any code and files in the software package.
+
+Hereby is granted to any person obtaining a copy of this software and related documentation files (the "Software")
+the right to use, copy, modify, merge, publish, distribute, sublicense and/or sell the Software, free of charge, 
+as well as the rights provided by the Software persons have the right to use this software, subject to the following conditions:
+The above copyright notice and this license notice shall be included in all copies or substantial portions of the Software.
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT 
+HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, 
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE In litigation.
+
+
+The LICENCEs for related libraries are as follows.
+The relevant reference library protocols are as follows:
+
+ContentVec
+https://github.com/auspicious3000/contentvec/blob/main/LICENSE
+MIT License
+
+VITS
+https://github.com/jaywalnut310/vits/blob/main/LICENSE
+MIT License
+
+HIFIGAN
+https://github.com/jik876/hifi-gan/blob/master/LICENSE
+MIT License
+
+gradio
+https://github.com/gradio-app/gradio/blob/main/LICENSE
+Apache License 2.0
+
+ffmpeg
+https://github.com/FFmpeg/FFmpeg/blob/master/COPYING.LGPLv3
+https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2021-02-28-12-32/ffmpeg-n4.3.2-160-gfbb9368226-win64-lgpl-4.3.zip
+LPGLv3 License
+MIT License
+
+ultimatevocalremovergui
+https://github.com/Anjok07/ultimatevocalremovergui/blob/master/LICENSE
+https://github.com/yang123qwe/vocal_separation_by_uvr5
+MIT License
+
+audio-slicer
+https://github.com/openvpi/audio-slicer/blob/main/LICENSE
+MIT License
+
+PySimpleGUI
+https://github.com/PySimpleGUI/PySimpleGUI/blob/master/license.txt
+LPGLv3 License
